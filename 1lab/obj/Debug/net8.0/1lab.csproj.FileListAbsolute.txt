@@ -1,0 +1,28 @@
+C:\Users\SKYLXRD\source\repos\1lab\bin\Debug\net8.0\1lab.exe
+C:\Users\SKYLXRD\source\repos\1lab\bin\Debug\net8.0\1lab.deps.json
+C:\Users\SKYLXRD\source\repos\1lab\bin\Debug\net8.0\1lab.runtimeconfig.json
+C:\Users\SKYLXRD\source\repos\1lab\bin\Debug\net8.0\1lab.dll
+C:\Users\SKYLXRD\source\repos\1lab\bin\Debug\net8.0\1lab.pdb
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.AssemblyInfoInputs.cache
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.AssemblyInfo.cs
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.csproj.CoreCompileInputs.cache
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.dll
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\refint\1lab.dll
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.pdb
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\1lab.genruntimeconfig.cache
+C:\Users\SKYLXRD\source\repos\1lab\obj\Debug\net8.0\ref\1lab.dll
+C:\Users\frant\OneDrive\Рабочий стол\1lab\bin\Debug\net8.0\1lab.exe
+C:\Users\frant\OneDrive\Рабочий стол\1lab\bin\Debug\net8.0\1lab.deps.json
+C:\Users\frant\OneDrive\Рабочий стол\1lab\bin\Debug\net8.0\1lab.runtimeconfig.json
+C:\Users\frant\OneDrive\Рабочий стол\1lab\bin\Debug\net8.0\1lab.dll
+C:\Users\frant\OneDrive\Рабочий стол\1lab\bin\Debug\net8.0\1lab.pdb
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.AssemblyInfoInputs.cache
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.AssemblyInfo.cs
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.csproj.CoreCompileInputs.cache
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.dll
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\refint\1lab.dll
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.pdb
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\1lab.genruntimeconfig.cache
+C:\Users\frant\OneDrive\Рабочий стол\1lab\obj\Debug\net8.0\ref\1lab.dll
